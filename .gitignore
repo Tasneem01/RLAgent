@@ -1,0 +1,15 @@
+config.json.bak
+__pycache__/*.*
+*.*/__pycache__/*.*
+*.txt
+!_requirements.txt
+
+image/backup/*.*
+report
+tensorlog/*.*
+log/backup/*.*
+model/*.*
+junk/*.*
+scrape.py
+summary.csv
+seed_result.txt
